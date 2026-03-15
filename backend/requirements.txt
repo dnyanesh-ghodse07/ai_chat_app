@@ -1,0 +1,4 @@
+# This file lists the dependencies for the backend of the AI chat application.
+fastapi[standard]
+uvicorn
+requests
